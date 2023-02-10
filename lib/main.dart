@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:real_app/new_transaction.dart';
-import 'package:real_app/transaction-list.dart';
-import 'package:real_app/user_transaction.dart';
+// import './new_transaction.dart';
+// import './transaction-list.dart';
+import './user_transaction.dart';
 
 void main() => runApp(const MyApp());
 
